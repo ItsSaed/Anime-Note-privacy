@@ -8,6 +8,16 @@ I, takes your privacy seriously. To better protect your privacy I provide this p
 This app track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this app. The information is tracked for routine administration and maintenance purposes.
 
 
+## Advertising ID
+
+My application requests and uses the advertising ID from your device to serve personalized advertisements.
+
+
+## Analytics
+
+My application uses Firebase Analytics to collect data on user interactions and app usage. This data helps to improve app functionality and user experience.
+
+
 ## Cookies
 
 Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the user and/or present the user with customized content.
