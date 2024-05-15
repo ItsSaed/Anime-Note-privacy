@@ -15,7 +15,7 @@ My application requests and uses the advertising ID from your device to serve pe
 
 ## Analytics
 
-My application uses Firebase Analytics to collect data on user interactions and app usage. This data helps to improve app functionality and user experience.
+Analyze user interactions and application usage to improve application functionality and user experience. By analyzing data on how users interact with the app, strengths and weaknesses of the design and functionality can be identified. These analytics help improve the user interface, increase efficiency, and provide a smoother experience.
 
 
 ## Cookies
